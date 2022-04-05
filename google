@@ -1,15 +1,25 @@
+## The task
+Next week, I will be teaching conditionals to my 9th grade p5.js class.
+I do a demo with them, highlighting the syntax and logic of it, and make them code along with me for about 2 or 3 examples.
+Then, I give them an exercise assignment with progressively harder questions, helping them practice using conditionals in different contexts.
+Usually the difficulty of the problems are broken into 3 parts.
 
+## Search: "js conditionals"
+Link 1: https://www.javascript.com/learn/conditionals
+        I wonder if my students would understand what it's saying.
+        Some of them will be able to read the descriptions and infer what is happening.
+        They may take a moment to unpack the examples.  But then, they'll get it.
+        For other students, it will still feel like a foreign language and they won't understand the basic definitions.
+        The examples will probably help, but sometimes, that, too, is a bit confusing.  The examples don't seem the follow the language or contex we use.
+Link 2: https://www.w3schools.com/js/js_if_else.asp
+        I think this website will make more sense for my students. (At least, it seems better for me.)
+        The definitions still can be a bit confusing, but it doesn't seem to have as much lofty language.  If seems more approachable.
+        There are examples where the user has to hit "Run!" in order to see the result, which I think can sometimes hinder their ability to understand since it's an extra step.
+        The examples seem to use more pseudocode, which I think makes it more understandable.
+        This website also includes mini exercises to test your understanding.  What a neat feature to include.
+Link 3: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+        This website is formatted more like a blog.  If someone likes to read by "hearing someone's voice", then this is a good option.
+        They also give examples with more pseudocode, and then they move on to more accurate coding.
+        Some of the commands used are not taught in my class, so it could be confusing to students what is happening.  But it's not so far off, that they would be totally lost.
+        I think they would understand this code pretty well.
 
-
-* Create or use an existing programming task in a programming language of a class you are teaching (or would like to teach).
-  - The task should involve multiple steps, ~5.
-* Run a few internet searches that a student might run when presented with your task.
-* In a markdown file:
-  - Describe the task
-  - For each search you ran provide three links from the results
-    - Provide a critique on the result. Things to consider:
-      - Was it useful?
-      - Was it too simple/complex?
-      - Was it unecessarily compicated?
-      - Did it include copypastable code?
-      - Did you learn from it/could a student learn from it?
